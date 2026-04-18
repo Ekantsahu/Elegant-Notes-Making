@@ -45,6 +45,19 @@ The goal of this project is to practice DOM manipulation and build a clean, inte
 - Using local storage for data persistence  
 - Structuring small frontend projects  
 
+### ➕ Additional Learnings from this Project
+- Event handling and event delegation for dynamic elements  
+- Implementing debounce and throttle for performance optimization  
+- Working with modals (open/close logic and UI state handling)  
+- Creating reusable utility functions for cleaner code  
+- Implementing search and filter functionality  
+- Managing application state using arrays and variables  
+- Optimizing rendering using DocumentFragment  
+- Implementing lazy loading (pagination on scroll)  
+- Generating unique IDs using timestamps  
+- Formatting dates for better readability  
+- Writing cleaner, modular, and maintainable JavaScript code  
+- Improving user experience with real-time updates and validations  
 ---
 
 ## 🚀 Future Improvements
