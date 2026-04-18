@@ -30,12 +30,6 @@ The goal of this project is to practice DOM manipulation and build a clean, inte
 
 ---
 
-## ⌨️ Keyboard Shortcuts
-- `Enter` → Create new note  
-- `Backspace` → Delete empty note   
-
----
-
 ## 🧠 Development Process
 - Started with basic HTML structure  
 - Styled the UI using CSS for better user experience  
